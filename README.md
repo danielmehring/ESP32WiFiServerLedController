@@ -1,5 +1,5 @@
 # ESP32WiFiServerLedController
-An ESP32 Project I did to control my LED Stripes via my smartphone and an infrared remote.
+An ESP32 Project I did to control my LED Stripes via [an android app](https://github.com/danielmehring/ESP32LEDs) and an infrared remote.
 
 When you want to replicate this project, just continue reading :).
 
